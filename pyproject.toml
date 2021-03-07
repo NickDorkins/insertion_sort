@@ -6,6 +6,7 @@ authors = ["NickDorkins <nick.dorkins@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pytest = "^6.0"
 
 [tool.poetry.dev-dependencies]
 
